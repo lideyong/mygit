@@ -18,4 +18,8 @@ git log
 git log --pretty=oneline
 git reflog
 
+git checkout -- <file>
+git reset HEAD <file>
+
+
 
