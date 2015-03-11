@@ -15,6 +15,7 @@ git reset --hard commit_id
 git reset --hard 4fadbdxxx
 
 git log
+git log --pretty=oneline
 git reflog
 
 
