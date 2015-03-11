@@ -4,4 +4,7 @@ git config --global user.name "lideyong"
 git config --global user.email "lideyong@outlook.com"
 
 git init
+git add file1.txt
+git commit -m "note message"
+
 
