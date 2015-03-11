@@ -1,3 +1,5 @@
+This is a note about learn Git.
+
 git config --global user.name "lideyong"
 git config --global user.email "lideyong@outlook.com"
 
