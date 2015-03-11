@@ -7,4 +7,14 @@ git init
 git add file1.txt
 git commit -m "note message"
 
+git status
+git diff file1.txt
+
+HEAD, HEAD^, HEAD^^, HEAD~100
+git reset --hard commit_id
+git reset --hard 4fadbdxxx
+
+git log
+git reflog
+
 
