@@ -27,8 +27,13 @@ git remote add origin git@github.com:lideyong/mygit.git
 git push -u origin master
 git clone git@github.com:lideyong/gitskills
 
+git branch
 git branch dev
 git checkout dev
 git checkout -b dev
+git checkout master
+git merge dev
+git branch -d dev
 
 This line is master
+This line is feature1
