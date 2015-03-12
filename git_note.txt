@@ -22,4 +22,7 @@ git checkout -- <file>
 git reset HEAD <file>
 
 
+git remote add origin git@github.com:lideyong/mygit.git
+git push -u origin master
+
 
