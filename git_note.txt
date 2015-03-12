@@ -35,5 +35,4 @@ git checkout master
 git merge dev
 git branch -d dev
 
-This line is master
-This line is feature1
+git log --graph --pretty=oneline --abbrev-commit
