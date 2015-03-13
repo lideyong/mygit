@@ -56,3 +56,8 @@ git push origin dev
 git pull
 git branch --set-upstream dev origin/dev
 
+git tag <name>
+git tag -a <tagname> -m "message"
+git tag
+git show <tagname>
+
