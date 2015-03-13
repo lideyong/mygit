@@ -61,3 +61,8 @@ git tag -a <tagname> -m "message"
 git tag
 git show <tagname>
 
+git push origin <tagname>
+git push origin --tags
+git tag -d <tagname>
+git push origin :refs/tags/<tagname>
+
